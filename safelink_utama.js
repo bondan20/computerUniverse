@@ -23,7 +23,8 @@ var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="urlshortener.html"}
 if(x=="2"){xxx="Webserversandfirewall.html"}
-if(x=="3"){xxx="5-steps-to-securing-your-windows-xp.html"}a_to_ve[i].href="https://www.computeruniverse.tech/2019/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="3"){xxx="cmutr-trnng-schools.html"}
+if(x=="4"){xxx="5-steps-to-securing-your-windows-xp.html"}a_to_ve[i].href="https://www.computeruniverse.tech/2019/02/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
